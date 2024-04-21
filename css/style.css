@@ -1,6 +1,7 @@
 /*--
 Author: W3layouts
 Author URL: http://w3layouts.com
+
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
@@ -15,6 +16,14 @@ font-size:14px;
 }
 p{
 margin:0;
+}
+
+.myPara{
+
+}
+
+.myDes{
+
 }
 h1,h2,h3,h4,h5,h6,a{
 font-family:'Ubuntu', sans-serif !important;
